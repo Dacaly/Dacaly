@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Dacaly
 - 👀 I’m interested in Java, JavaScript, CSS and HTML
 - 🌱 I’m currently learning HTML and CSS
-- 📫 You can reach me on Discord: Mausse#9155
+- 📫 You can reach me on Discord: Dacaly#9155
