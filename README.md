@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chronosshield" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chronosshield" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chronosshield" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chronosshield" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dacaly-discord-11717425b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chronosshield" height="30" width="40" /></a>
 <a href="https://instagram.com/chronosshield" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chronosshield" height="30" width="40" /></a>
 <a href="https://discord.gg/chronosshield" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chronosshield" height="30" width="40" /></a>
 </p>
