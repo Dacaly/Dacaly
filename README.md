@@ -81,7 +81,7 @@
 
 
 ## Stats  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dacaly&show_icons=true&locale=en" alt="dacaly" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dacaly&show_icons=true&locale=en&theme=radical" alt="dacaly" /></p>
 <p>&nbsp;<img align="center" src="https://lanyard-profile-readme.vercel.app/api/490431292383428609" alt="dacaly" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dacaly&label=Profile%20views&color=0e75b6&style=flat" alt="dacaly" /> </p>
