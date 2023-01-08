@@ -80,19 +80,13 @@
 <br/>  
 
 
-## Github Stats  
+## Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Dacaly&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
 ![dacaly](https://lanyard-profile-readme.vercel.app/api/490431292383428609)  
-  
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dacaly&&style=flat-square)  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
